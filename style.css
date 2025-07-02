@@ -1,0 +1,319 @@
+body{
+    padding: 0;
+    margin: 0;
+    
+}
+
+.one ul{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    background-color: rgb(160, 55, 55);
+    list-style: none;
+    padding: 10px;
+    
+}
+
+.two img{
+    width: 80px;
+    height: 40px;
+    margin-left: 120px;
+    margin-top: -10px;
+}
+
+.one ul li a {
+    margin-left: 10px;
+    padding: 7px;
+    color: rgb(250, 246, 246);
+    text-decoration: none;
+    
+}
+
+.one ul li{
+    margin-left: 50px;
+    margin-top: 10px;
+    color: rgb(255, 255, 255);
+    
+}
+
+.three{
+    background-color: rgba(201, 101, 116, 0.785);
+    width: 102%;
+    height: 350px;
+    position: sticky;
+    padding: auto;
+    margin: auto;
+}
+
+.three h2{
+    margin-left: 450px;
+    margin-top: -10px;
+    padding: 33px;
+}
+
+.three h5{
+    margin-left: 380px;
+    font-size: 20px;
+    margin-top: -29px;
+
+}
+
+.three h6{
+    margin-left: 620px;
+    margin-top: -25px;
+    font-size: 20px;
+}
+
+.four{
+    background-color: brown;
+    width: 250px;
+    height: 50px;
+margin: auto;
+padding: auto;
+}
+
+.four h3{
+    margin-left: 50px;
+    padding: 9px;
+    
+}
+
+.five{
+    background-color: white;
+    width: 102%;
+    height: 40px;
+
+}
+
+.five h3{
+text-align: center;
+    padding: 20px;
+    font-size: 30px;
+}
+
+.five h5{
+    text-align: center;
+    margin-top: -37px;
+    font-size: 20px;
+}
+
+.five h6{
+    text-align: center;
+    font-size: 20px;
+    margin-top: -30px;
+}
+
+.six{
+    background-color: darkolivegreen;
+    width: 102%;
+    height: 140px;
+    margin-top: 150px;
+    margin-top: 5px;
+    
+}
+
+.six h2{
+    margin-left: 530px;
+    padding: 20px;
+}
+
+.six h5{
+margin-left: 580px;
+margin-top: -30px;
+
+}
+.six h6{
+    margin-left: 520px;
+    margin-top: -15px;
+    font-size: 12px;
+}
+.lion{
+    width: 100%;
+    height: 380px;
+    margin-top: 15px;
+    display: flex;
+
+}
+.support{
+    width:30%;
+    background-color: rgb(249, 245, 239);
+    border-radius: 13px;
+    margin-left: 50px;
+          border: solid rgb(106, 106, 93) 4px;
+
+}
+.support img{
+    width: 15%;
+    height: 90px;
+    padding: 20px;
+    margin-left: 170px;
+}
+.support h2{
+    text-align: center;
+}
+.support h4{
+    text-align: center;
+}
+.help{
+    width: 30%;
+    height: 300px;
+    background-color: rgb(248, 244, 244);
+    border-radius: 13px;
+    margin-left: 40px;
+          border: solid rgb(106, 106, 93) 4px;
+}
+.help img{
+    width: 20%;
+    height: 90px;
+    padding: 20px;
+    margin-left: 150px;
+
+}
+.help h2{
+    text-align: center;
+}
+.help h4{
+    text-align: center;
+}.donate{
+    width: 30%;
+     height: 300px;
+    background-color: rgb(251, 249, 249);
+    border-radius: 13px;
+    margin-left: 40px;
+    margin-right: -120px;
+          border: solid rgb(106, 106, 93) 4px;
+}
+.donate img{
+     width: 20%;
+    height: 90px;
+    padding: 20px;
+    margin-left: 150px;
+
+}
+.donate h2{
+    text-align: center;
+}
+.donate h4{
+    text-align: center;
+    font-family: serif;
+}
+.butt1{
+    background-color: brown;
+    padding: 10px;
+    border: solid yellowgreen;
+    border-radius: 10px;
+    margin-left: 35%;
+}
+
+.butt1 a {
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+}
+.sup h3{
+    color: white;
+    margin-left: 15px;
+    margin-top: -20px;
+}
+.hel{
+    margin-left: -230px;
+    margin-top: 20px;
+}
+.help{
+    height: 375px;
+}
+
+.hel a{
+ color: white;
+    text-decoration: none;
+    font-weight: 600;
+  
+}
+.hel h3{
+ color: white;
+    margin-left: 25px;
+    margin-top: 20px;   
+}
+.don{
+margin-left: -230px;
+    margin-top: 20px;
+    height: 400px;  
+}
+.donate{
+    height: 375px;
+}
+.don h3{
+ color: white;
+    margin-left: 25px;
+    margin-top: 20px;   
+}
+.addition{
+    display: flex;
+    width: 101%;
+    height: 500px;
+    
+    margin-top: 90px;
+}
+.fam{
+    width: 27%;
+    height: 450px;
+    background-color: rgb(240, 238, 243);
+   
+    margin-left: 50px; 
+    margin-right: -50px; 
+    padding-left: 20px;
+    padding: 20px; 
+   
+}
+.fam img{
+    width: 100%;
+    height: 200px;
+    padding: auto;  
+}
+.fam h5{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+     padding: 20px;
+}
+.son{
+      width: 27%;
+    height: 450px;
+    background-color: rgb(240, 238, 243);
+   
+    margin-left: 90px; 
+    margin-right: -50px; 
+    padding-left: 20px;
+    padding: 20px; 
+    
+}
+.son img{
+     width: 100%;
+    height: 200px;
+    padding: auto;
+}
+.son h5{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+     padding: 20px;
+}
+.wom{
+       width: 27%;
+    height: 450px;
+    background-color: rgb(240, 238, 243);
+    
+    margin-left: 90px; 
+    margin-right: -50px; 
+    padding-left: 20px;
+    padding: 20px; 
+   
+}
+.wom img{
+         width: 100%;
+    height: 200px;
+    padding: auto;
+}
+.wom h5{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+     padding: 20px;
+}

@@ -1,0 +1,345 @@
+body{
+    padding: 0;
+    margin: 0;
+    
+}
+
+.one ul{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    background-color: rgb(160, 55, 55);
+    list-style: none;
+    padding: 5px;
+}
+
+.two img{
+    width: 80px;
+    height: 40px;
+    margin-left: 120px;
+    margin-top: -10px;
+}
+
+.one ul li a{
+    margin-left: 10px;
+    padding: 7px;
+    color: white;
+    text-decoration: none;
+    
+}
+
+.one ul li{
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+.three{
+    background-color: rgba(33, 226, 233, 0.785);
+    width: 102%;
+    height: 350px;
+    position: sticky;
+}
+
+.three h2{
+    margin-left: 400px;
+    margin-top: -10px;
+    padding: 33px;
+}
+
+.three h5{
+    margin-left: 300px;
+    font-size: 20px;
+    margin-top: -29px;
+
+}
+
+.three h6{
+    margin-left: 500px;
+    margin-top: -25px;
+    font-size: 20px;
+}
+
+.four{
+    background-color: brown;
+    width: 250px;
+    height: 50px;
+    margin-left: 510px;
+}
+
+.four h3{
+    margin-left: 50px;
+    padding: 9px;
+    
+}
+
+.five{
+    background-color: white;
+    width: 102%;
+    height: 40px;
+
+}
+
+.five h3{
+    margin-left: 530px;
+    padding: 20px;
+    font-size: 30px;
+}
+
+.five h5{
+    margin-left: 490px;
+    margin-top: -37px;
+    font-size: 20px;
+}
+
+.five h6{
+    margin-left: 535px;
+    font-size: 20px;
+    margin-top: -30px;
+}
+
+.six{
+    background-color: darkolivegreen;
+    width: 102%;
+    height: 140px;
+    margin-top: 150px;
+}
+
+.six h2{
+    margin-left: 530px;
+    padding: 20px;
+}
+
+.six h5{
+margin-left: 580px;
+margin-top: -30px;
+
+}
+.six h6{
+    margin-left: 520px;
+    margin-top: -15px;
+    font-size: 12px;
+}
+
+.form1 h2{
+    margin-left: 490px;
+    padding: 10px;
+}
+
+.form1 p{
+    margin-left: 300px;
+    font-size: 20px;
+    margin-top: -15px;
+    font-weight: 10px
+    ;
+}
+.form1 h3{
+    margin-left: 500px;
+    font-size: 25px;
+    padding: -10px;
+}
+.form1 h4{
+    margin-left: 500px;
+    font-size: 25px;
+}
+.form1 h5{
+    margin-left: 500px;
+    font-size: 25px;
+    margin-top: -3px;
+}
+.form1 h6{
+    margin-left: 500px;
+    font-size: 25px;
+    margin-top: -5px;
+}
+.seven{
+    margin-left: 240px;
+    padding: 20px;
+    
+}
+.nairobi{
+    width: 101%;
+    height: 200px;
+    margin-top: 100px;
+    display: flex;
+}
+.kisumu img{
+    width: 100%;
+    height: 130px;
+    padding: 20px;
+    margin-left: 20px;
+}
+.kisumu h3{
+    margin-left: 150px;
+    margin-top: -20px;
+}
+.moranga img{
+    width: 100%;
+    height: 130px;
+    padding: 20px;
+    margin-left: 50px;
+
+}
+.moranga h3{
+    margin-left: 160px;
+    margin-top: -20px;
+}
+.nyeri img{
+    width: 100%;
+    height: 130px;
+    padding: 20px;
+    margin-left: 90px;
+}
+.nyeri h3{
+    margin-left: 210px;
+    margin-top: -20px;
+}
+.kiambu img{
+    width: 100%;
+    height: 130px;
+    padding: 20px;
+    margin-left: 60px;
+}
+
+
+.mombasa img{
+    width: 90%;
+    height: 130px;
+    padding: 20px;
+    margin-left: 130px;
+    margin-right: -20px;
+
+}
+.mombasa h3{
+    margin-left: 250px;
+    margin-top: -20px;
+    
+}
+.congo{
+    width: 101%;
+    height: 450px;
+    
+    margin-top: 20px;
+    display: flex;
+}
+.rwanda img{
+    width: 100%;
+    height: 400px;
+    padding: 30px;
+}
+.uganda h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+     padding: 20px;
+     margin-left: 80px;
+     
+      margin-top: 40px;
+      border-radius: 20px;
+}
+.america{
+    width: 101%;
+    height: 80px;
+    background-color: burlywood;
+    display: flex;
+    
+}
+.america img{
+    width: 5%;
+    height: 50px;
+    padding: 4px;
+    margin-left: 20px;
+} 
+.america h3{
+    margin-left: 600px;
+}
+
+.abt1{
+    width: 101%;
+    height: 400px;
+    display: flex;
+    
+}
+.abt2{
+    width: 27%;
+    height: 450px;
+    background-color: rgba(240, 238, 243, 0.546);
+    border-radius: 15px;
+    margin-left: 20px;
+    padding: 20px;
+    border: solid rgb(106, 106, 93) 4px;
+}
+.abt2 h2{
+    margin: auto;
+    border-bottom: solid black 2px;
+    text-align: center;
+    
+}
+.abt2 h4{
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+}
+.abt3{
+    width: 27%;
+    height: 450px;
+    background-color: rgb(240, 238, 243);
+    border-radius: 15px;
+    margin-left: 20px;
+    border: solid rgb(106, 106, 93) 4px;
+    padding: 20px;
+    
+}  
+.abt3 h4{
+ padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+}   
+
+.abt3 h2{
+    
+  margin: auto;
+    border-bottom: solid black 2px;
+    text-align: center;   
+}
+.abt4{
+  width: 27%;
+    height: 450px;
+    background-color: rgb(240, 238, 243);
+    border-radius: 15px;
+    margin-left: 20px; 
+    margin-right: -50px; 
+    padding-left: 20px;
+    padding: 20px; 
+    border: solid rgb(106, 106, 93) 4px;
+}  
+
+.abt4 h2{
+    margin-left: 100px;
+    margin: auto;
+   border-bottom: solid black 2px;
+    text-align: center;
+}
+.abt4 h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+     padding: 20px;
+}
+.additional{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(249, 247, 244);
+    display: flex;
+}
+.add1 h1{
+    margin-left: 100px;
+    width: 100%;
+    height: 200px;
+}
+.add2 h3{
+    width: 60%;
+    height: 350px;
+    margin-left: 350px;
+     font-family: Arial, Helvetica, sans-serif;
+     
+     font-weight: 100;
+     border-radius: 20px;
+}

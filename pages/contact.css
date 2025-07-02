@@ -1,0 +1,522 @@
+body{
+    padding: 0;
+    margin: 0;
+   
+}
+
+.one ul{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    background-color: rgb(160, 55, 55);
+    list-style: none;
+    padding: 10px;
+}
+
+.two img{
+    width: 80px;
+    height: 40px;
+    margin-left: 120px;
+    margin-top: -10px;
+}
+
+.one ul li a{
+    margin-left: 10px;
+    padding: 7px;
+    color: white;
+    text-decoration: none;
+    
+}
+
+.one ul li{
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+.three{
+    background-color: rgba(33, 226, 233, 0.785);
+    width: 102%;
+    height: 350px;
+    position: sticky;
+}
+
+.three h2{
+    margin-left: 400px;
+    margin-top: -10px;
+    padding: 33px;
+}
+
+.three h5{
+    margin-left: 300px;
+    font-size: 20px;
+    margin-top: -29px;
+
+}
+
+.three h6{
+    margin-left: 500px;
+    margin-top: -25px;
+    font-size: 20px;
+}
+
+.four{
+    background-color: brown;
+    width: 250px;
+    height: 50px;
+    margin-left: 510px;
+}
+
+.four h3{
+    margin-left: 50px;
+    padding: 9px;
+    
+}
+
+.five{
+    background-color: white;
+    width: 102%;
+    height: 40px;
+
+}
+
+.five h3{
+    margin-left: 530px;
+    padding: 20px;
+    font-size: 30px;
+}
+
+.five h5{
+    margin-left: 490px;
+    margin-top: -37px;
+    font-size: 20px;
+}
+
+.five h6{
+    margin-left: 535px;
+    font-size: 20px;
+    margin-top: -30px;
+}
+
+.six{
+    background-color: darkolivegreen;
+    width: 102%;
+    height: 140px;
+    margin-top: 150px;
+}
+
+.six h2{
+    margin-left: 530px;
+    padding: 20px;
+}
+
+.six h5{
+margin-left: 580px;
+margin-top: -30px;
+
+}
+.six h6{
+    margin-left: 520px;
+    margin-top: -15px;
+    font-size: 12px;
+}
+.seven{
+    background-color: rgba(93, 10, 166, 0.863);
+    width: 101%;
+    height: 50px;
+}.seven h2{
+    margin-left: 450px;
+    margin-top: -10px;
+    padding: 12px;
+}
+.eight{
+    width: 101%;
+    height: 450px;
+    display: flex;
+    
+}
+.nine img{
+    width: 120%;
+    height: 300px;
+    margin-left: 50px;
+}
+.nine h4{
+    margin-left: 120px;
+}
+.nine p{
+    margin-left: 50px;
+}
+.ten img{
+    width: 60%;
+    height: 300px;
+    padding: 40px;
+    margin-left: 400px;
+    padding: 23px;
+    margin-top: -20px;
+
+}
+.ten h4{
+    margin-left: 550px;
+}
+.ten p{
+    margin-left: 420px;
+    padding-top: -10px;
+}
+.eleven{
+    width: 101%;
+    height: 450px;
+    
+    display: flex;
+    margin-top: 45px;
+}
+.twelve h4{
+    margin-left: 120px;
+}
+.twelve img{
+    margin-left: 50px;
+}
+.twelve p{
+    margin-left: 50px;
+}
+.thirteen h4{
+    margin-left: 420px;
+}
+.thirteen img{
+   margin-left: 310px; 
+   height: 300px;
+   width: 470px;
+}
+.thirteen p{
+    margin-left: 310px;
+}
+.fourteen{
+    
+    width: 101%;
+    height: 500px;
+    margin-top: 30px;
+    display: flex;
+}
+.fifteen h4{
+    margin-left: 50px;
+
+}
+.fifteen img{
+    height: 300px;
+    margin-left: 50px;
+    width: 480px;
+}
+.fifteen p{
+    margin-left: 50px;
+}
+.sixteen h4{
+    margin-left: 420px;
+}
+.sixteen img{
+    margin-left: 300px;
+}
+.sixteen p{
+    margin-left: 300px;
+}
+.seventeen h2{
+    margin-left: 500px;
+}
+.seventeen img{
+    width: 101%;
+    height: 400px;
+    padding: 10px;
+}
+.eighteen h3{
+    margin-left: 550px;
+    font-size: 35px;
+}
+.eighteen h5{
+    margin-left: 450px;
+    font-size: 20px;
+    margin-bottom: -49px;
+}
+.nineteen{
+    width: 80%;
+    height: 200px;
+    background-color: rgb(249, 225, 207); 
+    margin-top: 20px;
+    padding: 30px;
+    margin-left: 100px;
+}
+.nineteen h2{
+    margin-left: 420px;
+}
+.nineteen p{
+    margin-left: 400px;
+    font-size: 20px;
+}
+.twenty{
+    width: 101%;
+    height: 600px;
+    
+    margin-top: 20px;
+    display: flex;
+}
+.form2 img{
+    width: 450px;
+    height: 350px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.form2 h2{
+    margin-left: 10px;
+}
+.form3 img{
+    margin-left: 20px;
+    width: 450px;
+    height: 350px;
+    margin-top: 20px;
+}
+.form3 h2{
+    margin-left: 35px;
+}
+.form4 img{
+    width: 400px;
+    height: 350px;
+    margin-top: 20px;
+    margin-left: 27px;
+    margin-right: 30px;
+}
+.form4 h2{
+    margin-left: 35px;
+}
+.header{
+    width: 102%;
+    height: 300px;
+    background-color: dodgerblue;
+}
+.header h1{
+    margin-left: 350px;
+    font-size: 60px;
+    color: white;
+    margin-top: -30px;
+    padding: 40px;
+}
+.header h4{
+    margin-left: 300px;
+    font-size: 30px;
+    margin-top: -80px;
+}
+.header h5{
+    margin-left: 500px;
+    font-size: 30px;
+    margin-top: -40px;
+}
+.message{
+    width: 100%;
+    height: 800px;
+    background-color: rgba(232, 241, 241, 0.652);
+    margin-top: 20px;
+}
+.message h2{
+    margin-left: 500px;
+    padding: 100px;
+}
+.message p{
+    margin-left: 250px;
+    font-size: 30px;
+    margin-top: -100px;
+}
+.container{
+    width: 50%;
+    margin-top: 30px;
+    margin-left: 330px;
+    
+}
+.name{
+    width: 90%;
+    height: 60px;
+    border: burlywood;
+    border-radius: 20px;
+    margin-left: 90px;
+    padding: auto;
+    margin-top: 50px;
+    border: solid rgb(106, 106, 93) 4px;
+    padding-left: 10px;
+    
+    
+}
+.name h3{
+    margin-left: 00px;
+}
+.email{
+  width: 90%;
+    height: 60px;
+    border: solid rgb(106, 106, 93) 4px; 
+    border-radius: 20px;
+    margin-left: 90px;
+    margin-top: 20px;
+    padding-left: 10px;  
+}.email h3{
+    margin-left: 00px;
+}
+.subject{
+  width: 90%;
+    height: 60px;
+    border: solid rgb(106, 106, 93) 4px; 
+    border-radius: 20px;
+    margin-left: 90px;
+    margin-top: 20px; 
+    padding-left: 10px;  
+}
+.subject h3{
+    margin-left: 00px;
+}
+.mes{
+width: 90%;
+    height: 60px;
+    border: solid rgb(106, 106, 93) 4px; 
+    border-radius: 20px;
+    margin-left: 90px;
+    margin-top: 20px; 
+    margin-bottom: 30px; 
+    padding-left: 10px;     
+}
+.mes h3{
+    margin-left: 00px;
+}
+.butt1 a {
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+}
+.butt1{
+    background-color: brown;
+    padding: 10px;
+    border: solid yellowgreen;
+    border-radius: 10px;
+    margin-left: 48%;
+}
+
+.box h5{
+    margin-left: 45px;
+    font-size: 30px;
+    margin-top: -20px;
+}
+.other{
+    width: 102%;
+    height: 500px;
+    background-color: rgb(158, 218, 158);
+margin-top: 120px;
+display: flex;
+}
+.eu{
+    width: 30%;
+    height: 300px;
+    background-color: white;
+    margin-top: 90px;
+    margin-left: 20px;
+    
+}
+.eu img{
+    width: 80px;
+    
+    margin-left: 200px;
+}
+.eu h5{
+    margin-left: 160px;
+    font-size: 40px;
+    margin-top: 10px;
+}
+.eu p{
+    margin-left: 120px;
+    margin-top: -30px;
+}
+.cs{
+    width: 30%;
+    height: 300px;
+    background-color: white;
+    margin-top: 90px;
+    margin-left: 20px;
+}
+.cs img{
+  width: 80px;
+    
+    margin-left: 200px;  
+}
+.cs h5{
+  margin-left: 160px;
+    font-size: 40px;
+    margin-top: 10px;   
+}
+.cs p{
+  margin-left: 120px;
+    margin-top: -30px;
+    font-size: 40px;
+}
+.vt{
+  width: 30%;
+    height: 300px;
+    background-color: white;
+    margin-top: 90px;
+    margin-left: 20px;   
+} 
+.vt img{
+ width: 90px;
+   
+    margin-left: 180px;   
+}
+.vt h5{
+ margin-left: 100px;
+    font-size: 40px;
+    margin-top: 10px;   
+} 
+.vt p{
+margin-left: 50px;
+    margin-top: -30px;
+    font-size: 40px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;    
+}
+.ft{
+    width: 101%;
+    height: 350px;
+    background-color: rgb(76, 73, 80);
+    margin-top: 30px;
+}
+.ft h5{
+    margin-left: 400px;
+    padding: 80px;
+    font-size: 35px;
+    color: white;
+    
+}
+.ft p{
+    margin-left: 500px;
+    margin-top: -140px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+.ft h4{
+    margin-left: 900px;
+    margin-top: -210px;
+    font-size: 35px;
+    color: white;
+}
+.ft img{
+ width: 40px;
+    
+    margin-left: 900px;
+    margin-top: -50px;   
+}
+.on img{
+  width: 40px;
+    
+    margin-left: 900px;
+    margin-top: -10px;    
+}
+.tw img{
+     width: 40px;
+   
+    margin-left: 900px;
+    margin-top: -2px; 
+}
+.wow{
+    width: 101%;
+    height: 50px;
+    background-color: rgb(217, 197, 235);
+    margin-top: 180px;
+}
